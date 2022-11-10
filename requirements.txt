@@ -4,3 +4,4 @@ voila
 ipywidgets
 ipython
 ipympl
+scipy
