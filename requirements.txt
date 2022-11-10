@@ -3,3 +3,4 @@ matplotlib
 voila
 ipywidgets
 ipython
+ipympl
